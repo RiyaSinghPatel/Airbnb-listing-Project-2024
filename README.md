@@ -8,6 +8,9 @@ Airbnb, Inc. is San Francisco, California based company which act as a broker an
 
 
 ## Data set
+[download](http://insideairbnb.com/get-the-data/)
+
+
 
 
 
