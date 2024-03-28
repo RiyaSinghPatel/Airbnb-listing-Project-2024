@@ -8,7 +8,8 @@ Airbnb, Inc. is San Francisco, California based company which act as a broker an
 
 
 ## Data set
-[Download]([Uploading Listing1.csv…])
+
+
 
 ## questions we will cover in this project
 Questions :
