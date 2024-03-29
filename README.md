@@ -12,9 +12,6 @@ Airbnb, Inc. is San Francisco, California based company which act as a broker an
 can download more data from this link .
 
 
-
-
-
 ## questions we will cover in this project
 Questions :
 - In which Neighbourhood group there is maximum number of properties listed ?
@@ -26,3 +23,12 @@ Questions :
 - Total availability of properties having different room type?
 - Which one is the busiest host ?
 - Which property has maximum number of reviews ?
+
+
+## for more view check .twb file.
+
+Dashboard - 1 
+![dashboard1](https://github.com/RiyaSinghPatel/Airbnb-listing-Project-2024/assets/148413456/db31e636-0dfe-41c3-82b1-78fa5fbf74fc)
+
+Dashboard - 2 
+![Dashboard2](https://github.com/RiyaSinghPatel/Airbnb-listing-Project-2024/assets/148413456/03a3fdf6-c461-46a7-ad3a-9b79b5f6e5b4)
