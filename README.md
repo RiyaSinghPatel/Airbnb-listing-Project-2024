@@ -27,8 +27,13 @@ Questions :
 
 ## for more view check .twb file.
 
+**Tableau**
 Dashboard - 1 
 ![dashboard1](https://github.com/RiyaSinghPatel/Airbnb-listing-Project-2024/assets/148413456/db31e636-0dfe-41c3-82b1-78fa5fbf74fc)
 
 Dashboard - 2 
 ![Dashboard2](https://github.com/RiyaSinghPatel/Airbnb-listing-Project-2024/assets/148413456/03a3fdf6-c461-46a7-ad3a-9b79b5f6e5b4)
+
+**Power BI Dashboard**
+![PwerBI-Dashboard](https://github.com/RiyaSinghPatel/Airbnb-listing-Project-2024/assets/148413456/ae25860b-c404-4150-b444-d935a696dcfc)
+
