@@ -1,4 +1,4 @@
-# Airbnb-listing-Project-2024![octocat-1711770185030](https://github.com/RiyaSinghPatel/Airbnb-listing-Project-2024/assets/148413456/f362de39-e1e2-4a89-acde-bd46c5acdb5e)
+# Airbnb-listing-Project-2024![octocat-1711770185030](https://github.com/RiyaSinghPatel/Airbnb-listing-Project-2024/assets/148413456/f362de39-e1e2-4a89-acde-bd46c5acdb5e) {:height="50%" width="50%"}
 
 Airbnb 
 
